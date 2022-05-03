@@ -1,6 +1,6 @@
 Olá! Neste desafio foi criado uma API REST, para uma livraria
 
-                            Livraria Macabé
+                            Livraria Macabéa
 
 
 
@@ -18,16 +18,16 @@ Olá! Neste desafio foi criado uma API REST, para uma livraria
 -Supertest - v. 6.2.2<br>
 -cors- v.2.8.5<br>
 -Mongoose- v. 6.3.1<br>
--body-parser- v. 1.20.0",<br>
--express"- v. 4.18.1",<br>
--express-validator- v.2.20.8",<br>
--fetch": v. 1.1.0",<br>
--node-fetch": v.3.2.3",<br>
--sqlite3- v.5.0.6"<br>
+-body-parser- v. 1.20.0<br>
+-express- v. 4.18.1<br>
+-express-validator- v.2.20.8<br>
+-fetch: v. 1.1.0<br>
+-node-fetch: v.3.2.3,<br>
+-sqlite3- v.5.0.6<br>
  
 
 
- Iniciando da aplicação
+ Iniciando a aplicação
 
 	
 	 - Clone o repositório: https://github.com/camimonteiro/Project_API_Bookstore
